@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working as an Investment Data Intern at State of Wisconsin Investment Board
-- 🌱 I’m currently a student at UW-Madison
+- 🌱 I’m currently a student at UW-Madison studying Statistics, Data Science, Mathematics, and Economic Analytics
 - 📫 How to reach me: jethro.chen.79@gmail.com or LinkedIn: jethrochen0709
 - ⚡ Fun fact: I am a competitive yoyo player
 <!--
