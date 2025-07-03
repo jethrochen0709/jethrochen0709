@@ -49,7 +49,7 @@
 - [Python (Basic)](https://www.hackerrank.com/certificates/iframe/33691f03f113)
 - [SQL (Advanced)](https://www.hackerrank.com/certificates/iframe/228302e7870e)
 - [R (Intermediate)](https://www.hackerrank.com/certificates/iframe/535a566f3449)
-- [Software Engineer Intern]([https://www.hackerrank.com/certificates/iframe/597e5942c179)
+- [Software Engineer Intern](https://www.hackerrank.com/certificates/iframe/597e5942c179)
 
 # ✉️ Contact info
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jethrochen0709@gmail.com)
