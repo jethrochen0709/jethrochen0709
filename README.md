@@ -6,8 +6,10 @@
 👩🏻‍🎓 Studying [Data Science and Statistics]() at the University of Wisconsin, Madison<br/>
 💭 Currently learning about [Statistical Data Visualization]()! <br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Jethro's Github Stats](https://github-readme-stats.vercel.app/api?username=jethrochen0709)](https://github.com/anuraghazra/github-readme-stats)<br/>
+<!-- GitHub stats -->
+![jethrochen0709's Stats](https://github-readme-stats.vercel.app/api?username=jethrochen0709&theme=default&show_icons=true&hide_border=true&count_private=true)
+![jethrochen0709's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jethrochen0709&theme=default&hide_border=true)
+![jethrochen0709's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jethrochen0709&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 # 📋 Programming Languages
