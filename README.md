@@ -1,7 +1,7 @@
 <!-- Read Me -->
 
 # 👋 Hi, I'm Jethro!
-👩🏻‍💻 Curious student pursuing a career in the intersection between finance and data  <br/>
+👩🏻‍💻 Curious student pursuing a career in the intersectionality between data and finance  <br/>
 💼 Working as Investment Data intern at State of Wisconsin Investment Board <br/>
 👩🏻‍🎓 Studying [Data Science and Statistics]() at the University of Wisconsin, Madison<br/>
 💭 Currently learning about [Statistical Data Visualization](https://github.com/cjones46/STAT436_SU25)! <br/>
