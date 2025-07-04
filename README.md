@@ -4,7 +4,7 @@
 👩🏻‍💻 Curious student pursuing a career in the intersection between finance and data  <br/>
 💼 Working as Investment Data intern at State of Wisconsin Investment Board <br/>
 👩🏻‍🎓 Studying [Data Science and Statistics]() at the University of Wisconsin, Madison<br/>
-💭 Currently learning about [Statistical Data Visualization]()! <br/>
+💭 Currently learning about [Statistical Data Visualization](https://github.com/cjones46/STAT436_SU25)! <br/>
 
 <!-- GitHub stats -->
 ![jethrochen0709's Stats](https://github-readme-stats.vercel.app/api?username=jethrochen0709&theme=default&show_icons=true&hide_border=true&count_private=true)<br/>
