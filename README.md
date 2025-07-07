@@ -6,10 +6,13 @@
 👩🏻‍🎓 Studying [Data Science and Statistics]() at the University of Wisconsin, Madison<br/>
 💭 Currently learning about [Statistical Data Visualization](https://github.com/cjones46/STAT436_SU25)! <br/>
 
-<!-- GitHub stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jethrochen0709&theme=default&show_icons=true&hide_border=true&count_private=true)<br/>
-![GitHub Stats](https://streak-stats.demolab.com?user=jethrochen0709&theme=default&hide_border=true)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jethrochen0709&theme=default&show_icons=true&hide_border=true&layout=compact)<br/>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jethrochen0709&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jethrochen0709&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=jethrochen0709&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  </p>
+
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 # 📋 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
