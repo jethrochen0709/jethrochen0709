@@ -6,12 +6,9 @@
 👩🏻‍🎓 Studying [Data Science and Statistics]() at the University of Wisconsin, Madison<br/>
 💭 Currently learning about [Statistical Data Visualization](https://github.com/cjones46/STAT436_SU25)! <br/>
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jethrochen0709&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jethrochen0709&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-stats.vercel.app/api?username=jethrochen0709&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=jethrochen0709&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  </p>
+    <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jethrochen0709&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 # 📋 Programming Languages
