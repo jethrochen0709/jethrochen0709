@@ -4,7 +4,7 @@
 👩🏻‍💻 Curious in pursuing a career in the intersectionality between data and finance  <br/>
 💼 Working as Investment Data Analytics Engineer at State of Wisconsin Investment Board <br/>
 👩🏻‍🎓 Graduated from the University of Wisconsin, Madison<br/>
-💭 Currently learning about [Statistical Data Visualization](https://github.com/cjones46/STAT436_SU25)! <br/>
+💭 Currently learning about finance fundamentals! <br/>
 
   <img src ="https://github-readme-stats.vercel.app/api?username=jethrochen0709&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=jethrochen0709&theme=darcula&hide_border=true&background=FFFFFF00">
